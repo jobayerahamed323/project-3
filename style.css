@@ -1,0 +1,107 @@
+.mainbody {
+    margin: auto;
+    width: 800px;
+    background-color: black;
+}
+.header {
+    width: 800px;
+    height: 40px;
+    background-color: blue;
+    text-align: center;
+}
+.white {
+    color: white;
+}
+.a {
+    color: rgb(155, 48, 48);
+    font-size: 24px;
+}
+.b {
+    color: rgb(232, 47, 226);
+    font-size: 24px;
+}
+.manu {
+    width: 800px;
+    height: 40px;
+    background-color: green;
+    color: white;
+    font-size:28px ;
+    text-align: center;
+    margin-top: -20px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+  }
+.imagedown {
+    height: 80px;
+    background-color: rgba(255, 12, 69, 0.459);
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+.about {
+    width: 800px;
+    height: 150px;
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+}
+.service {
+    height: 75px;
+    background-color: rgb(18, 72, 19);
+    font-size: 60px;
+    text-align: center;
+}
+.logo {
+    margin: auto;
+    background-color: aliceblue;
+    height: 600px;
+    text-align: center;
+    padding-top: 10px;
+}
+.contact {
+    height: 75px;
+    background-color: blue;
+    font-size: 60px;
+    text-align: center;
+}
+.form {
+    height: auto;
+    background-color: aliceblue;
+    padding-top: 10px;
+    padding-left: 39%;
+}
+.area {
+    height: 90px;
+    width: 260px;
+}
+.upfooter {
+    height: auto;
+    background-color: rgb(88, 88, 239);
+    margin-top: -37px;
+    text-align: center;
+    color: white;
+}
+h1 {
+    font-size: 55px;
+    
+}
+h4 {
+    font-size: 25px;
+    margin-top: -30px;
+}
+.x {
+    margin-top: -30px;
+}
+.footer {
+    color: white;
+    height: auto;
+    text-align: center;
+    margin-top: -14px;
+}
+.m {
+    color: rgb(35, 35, 245);
+}
